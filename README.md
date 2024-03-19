@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @g1s1
-- 👀 I’m interested in digital health and digial biomarkers.
-- 🌱 I’m currently doing my Ph.D. at ETH Zurich.
-- 💞️ I’m looking to collaborate on research projects both for sensing and support in digital health.
-- 📫 How to reach me: Write me a email at gteepe@ethz.ch
+- 👀 I’m interested in digital health and digital biomarkers.
+- 🌱 I’m currently a Clinician Scientists at UPD Bern. 
+- 💞️ I’m looking to collaborate on research projects for sensing and digital health support, especially in geriatric psychiatry and psychotherapy.
+- 📫 How to reach me: Write me an email at gisbert.teepe@unibe.ch
 
 <!---
 g1s1/g1s1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
