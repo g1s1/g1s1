@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @g1s1
-- 👀 I’m interested in digital health and digital biomarkers.
-- 🌱 I’m currently a Clinician Scientists at UPD Bern. 
-- 💞️ I’m looking to collaborate on research projects for sensing and digital health support, especially in geriatric psychiatry and psychotherapy.
+- 👀 I’m interested in digital health specifically digital biomarkers, digital interventions, digital pathways.
+- 🌱 I’m currently a Clinician Scientists at UPZ Bern.
+- 🛋️ I’m a psychotherapist in training as well and teach patients in in- and out-patient care. 
+- 💞️ I’m looking to collaborate on research projects for digial biomarkers and interventions.
 - 📫 How to reach me: Write me an email at gisbert.teepe@unibe.ch
 
 <!---
