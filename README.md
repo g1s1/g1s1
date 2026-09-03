@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @g1s1
+
+## 👋 Moin, Moin, I’m @g1s1
 - 👀 I’m interested in digital health specifically digital biomarkers, digital interventions, digital pathways.
 - 🌱 I’m currently a Clinician Scientists at UPZ Bern.
 - 🛋️ I’m a psychotherapist in training as well and teach patients in in- and out-patient care. 
